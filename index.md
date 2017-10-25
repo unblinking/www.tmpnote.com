@@ -1,0 +1,3 @@
+# 📓 tmpNote  
+
+Another text editor.  
