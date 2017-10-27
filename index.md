@@ -8,7 +8,7 @@ Another text editor.
 
 tmpNote is a simple text editor with undo/redo, cut/copy/paste/delete, select all, word wrap, line numbers, folding symbols, and Python syntax highlighting.  
 
-tmpNote started as a project to learn [wxPython](http://www.wxpython.org/). If it can serve as an example for anyone else learning [Python](https://www.python.org/) or [wxPython](http://www.wxpython.org/) that is great. If you are looking for a text editor to actually use I recommend [Sublime Text](http://www.sublimetext.com/).  
+tmpNote started in 2013 as a project to learn [wxPython](http://www.wxpython.org/). The source was first shared on GitHub in May 2014, and maintenance continues through today. If it can serve as an example for anyone else learning [Python](https://www.python.org/) or [wxPython](http://www.wxpython.org/) that is great. If you are looking for a text editor to actually use I recommend [Sublime Text](http://www.sublimetext.com/).  
 
 ## Download  
 
