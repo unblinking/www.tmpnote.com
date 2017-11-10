@@ -15,7 +15,7 @@ tmpNote started in 2013 as a project to learn [wxPython](http://www.wxpython.org
 Download a single executable file, no installation required.  
 
 [tmpNote for Windows](https://github.com/nothingworksright/tmpNote/releases/download/v0.0.7/tmpNote_windows10_64bit.exe) (Windows 10 64-bit)  
-[tmpNote for Linux](https://github.com/nothingworksright/tmpNote/releases/download/v0.0.7/tmpNote_ubuntu1704_64bit) (Ubuntu 17.04 64-bit) 
+[tmpNote for Linux](https://github.com/nothingworksright/tmpNote/releases/download/v0.0.7/tmpNote_ubuntu1704_64bit) (Ubuntu 17.04 64-bit)  
 
 ## Source code  
 
