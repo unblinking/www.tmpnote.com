@@ -10,9 +10,12 @@ tmpNote is a simple text editor with undo/redo, cut/copy/paste/delete, select al
 
 tmpNote started in 2013 as a project to learn [wxPython](http://www.wxpython.org/). The source was first shared on GitHub in May 2014, and maintenance continues through today. If it can serve as an example for anyone else learning [Python](https://www.python.org/) or [wxPython](http://www.wxpython.org/) that is great. If you are looking for a text editor to actually use I recommend [Sublime Text](http://www.sublimetext.com/).  
 
-## Download  
+## Downloads  
 
-For Windows 10 users, download a [prebuilt Windows executable file](https://github.com/nothingworksright/tmpNote/releases/download/v0.0.1/tmpNote.exe) from the [releases](https://github.com/nothingworksright/tmpNote/releases) (no installation required).  
+Download a single executable file, no installation required.  
+
+[tmpNote for Windows](https://github.com/nothingworksright/tmpNote/releases/download/v0.0.7/tmpNote_windows10_64bit.exe) (Windows 10 64-bit)  
+[tmpNote for Linux](https://github.com/nothingworksright/tmpNote/releases/download/v0.0.7/tmpNote_ubuntu1704_64bit) (Ubuntu 17.04 64-bit) 
 
 ## Source code  
 
