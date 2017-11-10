@@ -2,8 +2,6 @@
 
 This is the source code repository for [tmpNote.com](http://www.tmpnote.com/).  
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/972c1e9416067d7fe368/maintainability)](https://codeclimate.com/github/nothingworksright/tmpnote_website/maintainability)  
-
 ## About  
 
 The official website of __tmpNote__.  
