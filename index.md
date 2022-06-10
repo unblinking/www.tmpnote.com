@@ -2,7 +2,7 @@
 
 Another text editor.  
 
-![Screenshot of Python syntax highlighting](https://raw.githubusercontent.com/wiki/nothingworksright/tmpNote/tmpNote_screenshot_pythonSyntaxHighlighting.png)  
+![Screenshot of Python syntax highlighting](https://raw.githubusercontent.com/wiki/unblinking/tmpNote/tmpNote_screenshot_pythonSyntaxHighlighting.png)  
 
 ## About  
 
@@ -14,15 +14,15 @@ tmpNote started in 2013 as a project to learn [wxPython](http://www.wxpython.org
 
 Download a single executable file, no installation required.  
 
-[tmpNote for Windows](https://github.com/nothingworksright/tmpNote/releases/download/v0.0.7/tmpNote_windows10_64bit.exe) (Windows 10 64-bit)  
-[tmpNote for Linux](https://github.com/nothingworksright/tmpNote/releases/download/v0.0.7/tmpNote_ubuntu1704_64bit) (Ubuntu 17.04 64-bit)  
+[tmpNote for Windows](https://github.com/unblinking/tmpNote/releases/download/v0.0.7/tmpNote_windows10_64bit.exe) (Windows 10 64-bit)  
+[tmpNote for Linux](https://github.com/unblinking/tmpNote/releases/download/v0.0.7/tmpNote_ubuntu1704_64bit) (Ubuntu 17.04 64-bit)  
 
 ## Source code  
 
-The [tmpNote source code repository](https://github.com/nothingworksright/tmpNote) is hosted at GitHub. Source code written in [Python](https://www.python.org/), using the [Sublime Text](http://www.sublimetext.com/) editor. tmpNote is a combination of [wxPython](http://www.wxpython.org/), [AGW Flatnotebook](http://svn.wxwidgets.org/svn/wx/wxPython/3rdParty/AGW/agw/flatnotebook.py) ( [another link](https://docs.wxpython.org/wx.lib.agw.flatnotebook.html#module-wx.lib.agw.flatnotebook) ), and [StyledTextCtrl](https://docs.wxpython.org/wx.stc.StyledTextCtrl.html#wx.stc.StyledTextCtrl).  
+The [tmpNote source code repository](https://github.com/unblinking/tmpNote) is hosted at GitHub. Source code written in [Python](https://www.python.org/), using the [Sublime Text](http://www.sublimetext.com/) editor. tmpNote is a combination of [wxPython](http://www.wxpython.org/), [AGW Flatnotebook](http://svn.wxwidgets.org/svn/wx/wxPython/3rdParty/AGW/agw/flatnotebook.py) ( [another link](https://docs.wxpython.org/wx.lib.agw.flatnotebook.html#module-wx.lib.agw.flatnotebook) ), and [StyledTextCtrl](https://docs.wxpython.org/wx.stc.StyledTextCtrl.html#wx.stc.StyledTextCtrl).  
 
 ___
 
-© 2017 [__nothingworksright__](https://github.com/nothingworksright)  
+© 2017-2022 [__unblinking I/O__](https://github.com/unblinking)  
 
-View the [source code repository that powers this website](https://github.com/nothingworksright/tmpnote_website)  
+View the [source code repository that powers this website](https://github.com/unblinking/www.tmpnote.com)  
